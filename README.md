@@ -17,7 +17,7 @@ RMC
 *JDK, JRE(open-jdk-1.x.x)*
 *GNU Make 2.xx and above.*
 
-Now, How to use the application? first clone the repository; then follow the below explained instructions in order to install the application(both desktop and mobile side),once done then download and install the androind app from the link given below. After this; start your mobile hotspot network, and now start the RMC application on android side and enjoy.
+Now, How to use the application? first clone the repository; then follow the below explained instructions in order to install the application(both desktop and mobile side),once done then download and install the androind app from the link given below. After this; start your mobile hotspot network,connect desktop system to mobile adhoc network, and now start the RMC application on android side and enjoy.
 
 *NOTE: Here one think to note, in order to use the application one has to start the android phone hotspot not ubuntu/desktop hotspot respectively.*
 
@@ -40,7 +40,7 @@ Usage :
 
 STEP-1
 
-    cd path-to-rmc-dir
+    cd path-to-rmc-dir/Desktop-RMC
 
 ##This command will build all java classess and finally builds jar file from it...
 
